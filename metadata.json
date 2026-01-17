@@ -1,0 +1,5 @@
+{
+  "name": "PixelBinary - 128x64 Editor",
+  "description": "A high-performance, pixel-perfect binary pixel art editor with smooth zooming and panning.",
+  "requestFramePermissions": []
+}
